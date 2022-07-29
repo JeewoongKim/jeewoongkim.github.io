@@ -15,7 +15,7 @@ Previously, Jeewoong received his B.S degree from [Computer Science and Electric
 
 ## Research Interest
 
-Jeewoong has interested in a dynamic program analysis for software verification and debugging. He also developed a new technique to improve unit test quality during a master degree program.
+Jeewoong has interested in a dynamic program analysis for software verification and debugging. He also developed a new technique [DoTeLink](https://github.com/arise-handong/dotelink) to improve unit test quality during a master degree program.
 
 
 ## Publications
