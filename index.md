@@ -20,6 +20,6 @@ Jeewoong has interested in a dynamic program analysis for software verification 
 
 ## Publications
 
-- Inferring Fine-grained Traceability Links between Javadoc Comment and JUnit Test Code, ICSME-NIER, 2022, (to appear)
+- Inferring Fine-grained Traceability Links between Javadoc Comment and JUnit Test Code, ICSME-NIER, 2022 (to appear)
 - How Does a Unit-level Test Case for Continuous Fuzzing Eolve: An Empirical Study of Code Changes in OSS-Fuzz Projects, KCC, Jun 2022 \[[pdf](/pubs/kcc22_oss-fuzz-change.pdf)\] \[[data](https://github.com/ARISE-Handong/oss-fuzz-study)\]
 - Evaluation of Test Requirement Extraction Techniques for Javadoc Description, KCSE, Feb 2020 \[[pdf](/pubs/kcse20-javadoc.pdf)\] \[[video](https://www.youtube.com/watch?v=gjiPzHg5Ohw)\]
