@@ -12,7 +12,8 @@ html {
 body {
     margin: 0;
     //font-family: "Inconsolata";
-    font-family: "Open Sans", sans-serif;
+    //font-family: "Open Sans", sans-serif;
+    font-family: "Mukta";
     height: 100%;
 }
 a {
@@ -27,6 +28,11 @@ hr {
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Custom */
+#pub-list {
+	letter-spacing: 10px;
 }
 
 /*
