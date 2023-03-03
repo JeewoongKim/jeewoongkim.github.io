@@ -10,7 +10,7 @@ Jeewoong Kim is a Ph.D student who is researching Software Engineer at [ARISE la
 
 Previously, Jeewoong received his B.S degree from [Computer Science and Electrical Engineering](https://csee.handong.edu) in Handong Global University.
 
-📧:[jeewoong.handong.ac.kr](mailto:jeewoong.handong.ac.kr) 
+📧:[jeewoong@handong.ac.kr](mailto:jeewoong@handong.ac.kr) 
 
 
 ## Research Interest
