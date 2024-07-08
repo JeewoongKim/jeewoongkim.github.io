@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="jwkim-rev.jpg">
 
-Jeewoong Kim is a Ph.D student who is researching Software Engineer at [ARISE lab](https://arise.handong.edu) with a his advisor [Shin Hong](https://hongshin.github.io) in [Handong Global University (HGU)](https://handong.edu), where he also had M.S degree.
+Jeewoong Kim is a Ph.D student who is researching Software Engineer at [SDEV lab](https://sdevlab.github.io) with a his advisor [Shin Hong](https://hongshin.github.io) in [Chungbuk National University (CBNU)](https://www.cbnu.ac.kr).
 
-Previously, Jeewoong received his B.S degree from [Computer Science and Electrical Engineering](https://csee.handong.edu) in Handong Global University.
+Previously, Jeewoong received his M.S degree from [Computer Science and Electrical Engineering](https://csee.handong.edu) in Handong Global University.
 
-📧:[jeewoong@handong.ac.kr](mailto:jeewoong@handong.ac.kr) 
+📧:[jeewoong@chungbuk.ac.kr](mailto:jeewoong@chungbuk.ac.kr) 
 
 
 ## Research Interest
