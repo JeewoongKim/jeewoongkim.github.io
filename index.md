@@ -20,7 +20,7 @@ Jeewoong has interested in a dynamic program analysis for software verification 
 
 ## Publications
 
-- BugOss: A Benchmark of Real-world Regression Bugs for Empirical Investigation of Regression Fuzzing Techniques, JSS, Oct 2024 \[[git](https://github.com/sdevlab/BugOss)\]  (will be presented as Journal-first paper in ASE 2024)
+- BugOss: A Benchmark of Real-world Regression Bugs for Empirical Investigation of Regression Fuzzing Techniques, JSS, Oct 2024 \[[git](https://github.com/sdevlab/BugOss)\]  (presented at the Journal-first track in ASE 2024)
 - BugOss: A Regression Bug Benchmark for Empirical Study of Regression Fuzzing Techniques, ICST-Poster, April 2023 
 - Inferring Fine-grained Traceability Links between Javadoc Comment and JUnit Test Code, ICSME-NIER, Oct 2022  \[[video(kor)](https://youtu.be/cYSnoM7Z9hc)\]
 - How Does a Unit-level Test Case for Continuous Fuzzing Eolve: An Empirical Study of Code Changes in OSS-Fuzz Projects, KCC, Jun 2022 \[[pdf](/pubs/kcc22_oss-fuzz-change.pdf)\] \[[data](https://github.com/ARISE-Handong/oss-fuzz-study)\]
