@@ -1,6 +1,14 @@
 @import "vars";
 
 .content {
+    font-size: 17px;
+    line-height: 1.4;
+
+//    br {
+//	    display: block;
+//		margin-top: 1em;
+//    }
+
     a:hover {
         text-decoration: underline;
     }
@@ -57,4 +65,7 @@
         text-align: center;
         width: 100%;
     }
+	ul > li {
+	    line-height: 1.3;
+	}
 }
