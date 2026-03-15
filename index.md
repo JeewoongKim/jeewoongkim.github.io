@@ -15,7 +15,9 @@ Previously, Jeewoong received his M.S degree from [Computer Science and Electric
 
 ## Research Interest
 
-Jeewoong researches dynamic program analysis for software verification and debugging. In particular, he worked on continuous fuzzing for multi-fault environments and techniques for detecting execution-order-dependent bugs. During his master's program, he developed a new technique, [DoTeLink](https://ieeexplore.ieee.org/document/9978264), to improve unit test quality by automatically linking API documentation to test code that representing the same requirement.
+Jeewoong researches dynamic program analysis for software verification and debugging.  
+In particular, he worked on continuous fuzzing for multi-fault environments and techniques for detecting execution-order-dependent bugs.  
+During his master's program, he developed a new technique, [DoTeLink](https://ieeexplore.ieee.org/document/9978264), to improve unit test quality by automatically linking API documentation to test code that representing the same requirement.
 
 
 ## Publications
