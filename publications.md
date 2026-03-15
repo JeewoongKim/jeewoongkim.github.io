@@ -2,7 +2,9 @@
 layout: default
 title: Publications
 ---
-- **J.Kim**, K.Kim, and S.Hong,Path-target Directed Greybox Fuzzing with Recursive Search Strategy, Korean Congress of Computing (KCC), Jul 2025 
+\* means equal contributions
+
+- **J.Kim**<sup>*</sup>, K.Kim<sup>*</sup>, and S.Hong,Path-target Directed Greybox Fuzzing with Recursive Search Strategy, Korean Congress of Computing (KCC), Jul 2025 
 - **J.Kim** and S.Hong, BugOss: A Benchmark of Real-world Regression Bugs for Empirical Investigation of Regression Fuzzing Techniques, Journal of Systems and Software (JSS), Vol. 216, Oct 2024 (presented at the Journal-first Track in ASE 2024)
 - **J.Kim** and S.Hong, BugOss: A Regression Bug Benchmark for Empirical Study of Regression Fuzzing Techniques, the 16th IEEE International Conference on Software Testing, Verification and Validation (ICST), Poster Track, April 2023
 - **J.Kim** and S.Hong, Inferring Fine-grained Traceability Links between Javadoc Comment and JUnit Test Code, the 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), New Ideas and Emerging Results Track (NIER), Oct 2022 \[[video(kor)](https://youtu.be/cYSnoM7Z9hc)\]
