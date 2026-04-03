@@ -69,3 +69,19 @@
 	    line-height: 1.3;
 	}
 }
+
+// PUBLICATION PAGES
+
+body.publications-page .content {
+    font-size: 16px ;
+	line-height: 1.65;
+}
+
+body.publications-page .content li {
+    margin-bottom: 1.2em;
+    line-height: 1.6;
+}
+
+body.publications-page .content ul {
+    padding-left: 1.2rem;
+}

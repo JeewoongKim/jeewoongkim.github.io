@@ -13,13 +13,21 @@ body {
     margin: 0;
     //font-family: "Inconsolata";
     //font-family: "Open Sans", sans-serif;
-    //font-family: "Roboto";
-    font-family: "Source Sans Pro";
+    //font-family: "IBM Plex Sans", sans-serif;
+    font-family: "Roboto", sans-serif;
+    //font-family: "Source Sans Pro";
+	line-height: 1.55;
     height: 100%;
+}
+body.publications-page .container {
+    max-width: 800px ;
 }
 a {
     text-decoration: none;
-    color: $accent;
+    //color: $accent;
+    //color: #0b57d0;
+    color: #4f46e5;
+    //color: #3b5bdb;
 }
 a:hover {
     text-decoration: underline;
@@ -73,6 +81,7 @@ hr {
 /* Divs */
 
 .container {
+    //max-width: $max-width;
     max-width: $max-width;
     margin: auto;
 }

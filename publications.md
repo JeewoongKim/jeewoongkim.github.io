@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Publications
+permalink: /publications/
+body_class: publications-page
 ---
+
 \* means equal contributions
 
 - **J.Kim**<sup>*</sup>, K.Kim<sup>*</sup>, and S.Hong, [Path-target Directed Greybox Fuzzing with Recursive Search Strategy](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318196), Korean Congress of Computing (KCC), Jul 2025 
