@@ -1,8 +1,19 @@
 @import "vars";
 
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+    font-weight: 500 ;
+}
+
 .content {
     font-size: 17px;
     line-height: 1.4;
+	color: #222 ;
+//	-webkit-font-smoothing: antialiased ;
 
 //    br {
 //	    display: block;
