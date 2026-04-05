@@ -24,7 +24,7 @@ During his master's program, he developed a new technique, [DoTeLink](https://ie
 ## Publications
 
 - Path-target Directed Greybox Fuzzing with Recursive Search Strategy, KCC, Jul 2025
-- Systematically Collecting Cross-project Bug Cases from OSS-Fuzz Test History, KCSE 2025
+- Systematically Collecting Cross-project Bug Cases from OSS-Fuzz Test History, KCSE, Jan 2025
 - BugOss: A Benchmark of Real-world Regression Bugs for Empirical Investigation of Regression Fuzzing Techniques, JSS, Oct 2024 \[[git](https://github.com/sdevlab/BugOss)\]  
 - BugOss: A Regression Bug Benchmark for Empirical Study of Regression Fuzzing Techniques, ICST-Poster, April 2023 
 - Inferring Fine-grained Traceability Links between Javadoc Comment and JUnit Test Code, ICSME-NIER, Oct 2022  \[[video(kor)](https://youtu.be/cYSnoM7Z9hc)\]
