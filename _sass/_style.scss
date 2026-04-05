@@ -19,6 +19,9 @@ body {
 	line-height: 1.55;
 	font-weight: 300;
     height: 100%;
+	color: #222;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 body.publications-page .container {
     max-width: 800px ;
