@@ -5,7 +5,5 @@
 - Programming Language Theory \[[2024F](https://github.com/hongshin/proglang)\]
 - Data Structures \[[2023S](https://github.com/hongshin/DataStructures/tree/2023)\], \[[2024S](https://github.com/hongshin/DataStructures)\]
 
-<br>
-
 ## Teaching Activity
 - Tutor, Programming Basics for North Korean defectors \[2019S\]
