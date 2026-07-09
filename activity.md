@@ -1,3 +1,8 @@
+## Open Source Fuzzing Contributions
+- Coverage expansion for previously uncovered code paths 
+    - \[[PR#288](https://github.com/ibireme/yyjson/pull/288)\]
+- Fuzz target efficiency optimization
+
 ## Teaching Assistant
 - DiscreteMath \[[2019F](https://github.com/hongshin/DiscreteMath/tree/2019fall)\], \[[2020F](https://github.com/hongshin/DiscreteMath/tree/2020fall)\] 
 - Operating System \[[2019S](https://github.com/hongshin/OperatingSystem/tree/2019spring)\], \[[2020S](https://github.com/hongshin/OperatingSystem/tree/2020spring)\], \[[2023S](https://github.com/hongshin/OperatingSystem/tree/2023spring)\]
