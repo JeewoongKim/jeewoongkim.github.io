@@ -1,4 +1,4 @@
-### Open Source Fuzzing Contributions
+### Continuous Fuzzing Contributions
 - Coverage expansion for previously uncovered code paths 
     - [PR#288](https://github.com/ibireme/yyjson/pull/288)
 - Fuzz target efficiency optimization
