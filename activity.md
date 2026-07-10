@@ -1,7 +1,8 @@
 ### Continuous Fuzzing Contributions
-- Coverage expansion for previously uncovered code paths 
+- Coverage expansion for previously unreachable code paths 
     - [PR#288](https://github.com/ibireme/yyjson/pull/288)
 - Fuzz target efficiency optimization
+- Activating statically reachable but unexercised code paths
 
 <br>
 
