@@ -3,9 +3,7 @@ layout: default
 ---
 
 ## About Me
-
 <img class="profile-picture" src="jwkim-rev.jpg">
-
 Jeewoong Kim is a Ph.D candidate who is researching Software Engineer at [SDEV lab](https://sdevlab.github.io) with a his advisor [Shin Hong](https://hongshin.github.io) in [Chungbuk National University (CBNU)](https://www.cbnu.ac.kr).
 
 Previously, Jeewoong received his M.S degree from [Computer Science and Electrical Engineering](https://csee.handong.edu) in Handong Global University.
@@ -19,7 +17,7 @@ Jeewoong researches dynamic program analysis for software verification and debug
 His work focuses on *test case generation* for hard-to-test program behaviors and *doc-to-test traceability* :
   - Greybox Fuzzing
   - Continuous Testing
-  - Automated Debugging
+  - Req-to-Test Traceability
 <br><br>
 
 ## Publications 
