@@ -3,30 +3,30 @@
 
 #### Static/Dynamic Analysis Accuracy
 
-- **Static analyzer**: Detect previously missed defects
+- **Static analyzer**: Detect previously missed defects  
     Cppcheck[#8815](https://github.com/cppcheck-opensource/cppcheck/pull/8815#event-30640616925)
 
-- **Dynamic analyzer**: Reduce sanitizer false positives
+- **Dynamic analyzer**: Reduce sanitizer false positives  
     LLVM MemorySanitizer / Thread Sanitizer, *Under review*
 
-- **CERT C**: Improve object lifetime rule checks
+- **CERT C**: Improve object lifetime rule checks  
     CodeQL, *Under review*
 
 #### Test Coverage & Defect Discovery
-- **Contiuous fuzz testing**: Exercise previously untested functionality
+- **Contiuous fuzz testing**: Exercise previously untested functionality  
     Google OSS-Fuzz[#15858](https://github.com/google/oss-fuzz/pull/15858#event-27814969075)
 
-- **Unit testing**: Verify network packet parsing
+- **Unit testing**: Verify network packet parsing  
     MsQuic, *under review*
 
-- **Fuzz testing**: Identify stack overflow during serialization
+- **Fuzz testing**: Identify stack overflow during serialization  
     JSON-java, *Reported*
 
 #### CI & Regression Test Reliability
-- **CI test strategy**: Prevent required tests from being skipped
+- **CI test strategy**: Prevent required tests from being skipped  
     Zephyr Twister[#116998](https://github.com/zephyrproject-rtos/zephyr/pull/116998#issuecomment-5477374597)
 
-- **Regression testing**: Prevent test log marker collisions
+- **Regression testing**: Prevent test log marker collisions  
     blktests [5e1086a](https://github.com/linux-blktests/blktests/commit/5e1086aa10975b4db11d4f57d06dfedf0ab58915)
 
 #### API Safety & Coding Standards
