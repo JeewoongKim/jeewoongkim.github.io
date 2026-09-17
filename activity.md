@@ -26,7 +26,7 @@
 
 | Project | Contribution |
 | :--- | :--- |
-| Zephyr | Replace variadic poll APIs with typed interfaces · MISRA C Rule 17.1 · <span class="oss-meta">Under review</span> |
+| Zephyr | Replace variadic poll APIs with typed interfaces · MISRA C Rule 17.1 · <span class="oss-meta">Design discussion</span> |
 
 #### Defect Reporting
 
