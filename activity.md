@@ -1,39 +1,41 @@
+<link rel="stylesheet" href="{{ '/css/oss-contributions.css' | relative_url }}">
+<div id="oss-contributions" markdown="1">
+
 ### OSS Contributions
-*Some technical details are withheld for security reasons.*
+<p class="oss-note">Some technical details are withheld for security reasons.</p>
 
-#### Static/Dynamic Analysis Accuracy
+#### Static/Dynamic Analysis
 
-- **Static analyzer**: Detect previously missed defects  
-    Cppcheck[#8815](https://github.com/cppcheck-opensource/cppcheck/pull/8815#event-30640616925)
+| Project | Contribution |
+| :--- | :--- |
+| Cppcheck | Detect previously missed defects · [#8815](https://github.com/cppcheck-opensource/cppcheck/pull/8815#event-30640616925) |
+| LLVM | Reduce MemorySanitizer false positives · <span class="oss-meta">Under review</span> |
+| <span class="oss-cont"></span> | Correct ThreadSanitizer synchronization annotations · <span class="oss-meta">Under review</span> |
+| CodeQL | Improve CERT C object lifetime rule checks · <span class="oss-meta">Under review</span> |
 
-- **Dynamic analyzer**: Reduce sanitizer false positives  
-    LLVM MemorySanitizer / Thread Sanitizer, *Under review*
+#### Test Coverage & Reliability
 
-- **CERT C**: Improve object lifetime rule checks  
-    CodeQL, *Under review*
+| Project | Contribution |
+| :--- | :--- |
+| Google OSS-Fuzz | Exercise previously untested functionality · Continuous fuzz testing · [#15858](https://github.com/google/oss-fuzz/pull/15858#event-27814969075) |
+| MsQuic | Add unit tests for network packet parsing · <span class="oss-meta">Under review</span> |
+| Zephyr Twister | Prevent required tests from being skipped · CI testing · [#116998](https://github.com/zephyrproject-rtos/zephyr/pull/116998#issuecomment-5477374597) |
+| blktests | Prevent regression test log marker collisions · [5e1086a](https://github.com/linux-blktests/blktests/commit/5e1086aa10975b4db11d4f57d06dfedf0ab58915) |
 
-#### Test Coverage & Defect Discovery
-- **Contiuous fuzz testing**: Exercise previously untested functionality  
-    Google OSS-Fuzz[#15858](https://github.com/google/oss-fuzz/pull/15858#event-27814969075)
+#### API Safety
 
-- **Unit testing**: Verify network packet parsing  
-    MsQuic, *under review*
+| Project | Contribution |
+| :--- | :--- |
+| Zephyr | Replace variadic poll APIs with typed interfaces · MISRA C Rule 17.1 · <span class="oss-meta">Under review</span> |
 
-- **Fuzz testing**: Identify stack overflow during serialization  
-    JSON-java, *Reported*
+#### Defect Reporting
 
-#### CI & Regression Test Reliability
-- **CI test strategy**: Prevent required tests from being skipped  
-    Zephyr Twister[#116998](https://github.com/zephyrproject-rtos/zephyr/pull/116998#issuecomment-5477374597)
+| Project | Contribution |
+| :--- | :--- |
+| JSON-java | Report stack overflow during serialization · Fuzz testing |
 
-- **Regression testing**: Prevent test log marker collisions  
-    blktests [5e1086a](https://github.com/linux-blktests/blktests/commit/5e1086aa10975b4db11d4f57d06dfedf0ab58915)
+</div>
 
-#### API Safety & Coding Standards
-- **MISRA C Rule 17.1**
-    Zephyr, *Under review*
-
----
 
 <br>
 
