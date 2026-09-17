@@ -18,7 +18,7 @@
 | Project | Contribution |
 | :--- | :--- |
 | Google OSS-Fuzz | Exercise previously untested functionality · Continuous fuzz testing · [#15858](https://github.com/google/oss-fuzz/pull/15858#event-27814969075) |
-| MsQuic | Add unit tests for network packet parsing · <span class="oss-meta">Under review</span> |
+| Microsoft MsQuic | Add unit tests for network packet parsing · <span class="oss-meta">Under review</span> |
 | Zephyr Twister | Prevent required tests from being skipped · CI testing · [#116998](https://github.com/zephyrproject-rtos/zephyr/pull/116998#issuecomment-5477374597) |
 | blktests | Prevent regression test log marker collisions · [5e1086a](https://github.com/linux-blktests/blktests/commit/5e1086aa10975b4db11d4f57d06dfedf0ab58915) |
 
