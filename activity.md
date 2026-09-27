@@ -8,7 +8,8 @@
 
 | Project | Contribution |
 | :--- | :--- |
-| Cppcheck | Detect previously missed defects · [#8815](https://github.com/cppcheck-opensource/cppcheck/pull/8815) |
+| Cppcheck | Improve CWE-125 detection for global dynamic buffers · [#8828](https://github.com/cppcheck-opensource/cppcheck/pull/8828) · <span class="oss-meta">Under review</span> |
+| <span class="oss-cont"></span> | Detect previously missed defects · [#8815](https://github.com/cppcheck-opensource/cppcheck/pull/8815) |
 | LLVM | Reduce MemorySanitizer false positives · <span class="oss-meta">Under review</span> |
 | <span class="oss-cont"></span> | Correct ThreadSanitizer synchronization annotations · <span class="oss-meta">Under review</span> |
 | CodeQL | Improve CERT C object lifetime rule checks · <span class="oss-meta">Under review</span> |
