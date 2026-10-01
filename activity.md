@@ -25,7 +25,7 @@
 | Project | Contribution |
 | :--- | :--- |
 | Google OSS-Fuzz | Exercise previously untested functionality · Continuous fuzz testing |
-| <span class="oss-cont"></span> | (libplist [be3a7ff](https://github.com/libimobiledevice/libplist/commit/be3a7ff2862868b4612d4c56edbd42e1d7dd7fdb), oss-fuzz[#16203](https://github.com/google/oss-fuzz/pull/16203#event-32196194130)) (yyjson[#288](https://github.com/ibireme/yyjson/pull/288), oss-fuzz[#15858](https://github.com/google/oss-fuzz/pull/15858)) |
+| <span class="oss-cont"></span> | (libplist[#316](https://github.com/libimobiledevice/libplist/pull/316), oss-fuzz[#16203](https://github.com/google/oss-fuzz/pull/16203#event-32196194130)) (yyjson[#288](https://github.com/ibireme/yyjson/pull/288), oss-fuzz[#15858](https://github.com/google/oss-fuzz/pull/15858)) |
 | Microsoft MsQuic | Add unit tests for network packet parsing · <span class="oss-meta">Under review</span> |
 | <span class="oss-cont"></span> | Add libfuzzer target for raw datapath packet parsing · <span class="oss-meta">Under review</span> |
 | LLVM | Add regression test for Clang frontend crash · <span class="oss-meta">Under review</span> |
