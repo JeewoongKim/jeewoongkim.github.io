@@ -12,7 +12,6 @@
 | <span class="oss-cont"></span> | Detect previously missed defects · [#8815](https://github.com/cppcheck-opensource/cppcheck/pull/8815) |
 | LLVM | Reduce MemorySanitizer false positives · <span class="oss-meta">Under review</span> |
 | <span class="oss-cont"></span> | Correct ThreadSanitizer synchronization annotations · <span class="oss-meta">Under review</span> |
-| <span class="oss-cont"></span> | Add regression test · <span class="oss-meta">Under review</span> |
 | CodeQL | Improve CERT C object lifetime rule checks · <span class="oss-meta">Under review</span> |
 
 #### API Safety
@@ -21,14 +20,15 @@
 | :--- | :--- |
 | Zephyr | Replace variadic poll APIs with typed interfaces · MISRA C Rule 17.1 · [#118426](https://github.com/zephyrproject-rtos/zephyr/pull/118426) · <span class="oss-meta">Milestoned for v4.6.0</span> |
 
-#### Test Coverage & Reliability
+#### Continuous & Regression Testing 
 
 | Project | Contribution |
 | :--- | :--- |
 | Google OSS-Fuzz | Exercise previously untested functionality · Continuous fuzz testing |
-| <span class="oss-cont"></span> | (libplist [be3a7ff](https://github.com/libimobiledevice/libplist/commit/be3a7ff2862868b4612d4c56edbd42e1d7dd7fdb), oss-fuzz[#16203](https://github.com/google/oss-fuzz/pull/16203#event-32196194130) (yyjson[#288](https://github.com/ibireme/yyjson/pull/288), oss-fuzz[#15858](https://github.com/google/oss-fuzz/pull/15858)) |
+| <span class="oss-cont"></span> | (libplist [be3a7ff](https://github.com/libimobiledevice/libplist/commit/be3a7ff2862868b4612d4c56edbd42e1d7dd7fdb), oss-fuzz[#16203](https://github.com/google/oss-fuzz/pull/16203#event-32196194130)) (yyjson[#288](https://github.com/ibireme/yyjson/pull/288), oss-fuzz[#15858](https://github.com/google/oss-fuzz/pull/15858)) |
 | Microsoft MsQuic | Add unit tests for network packet parsing · <span class="oss-meta">Under review</span> |
 | <span class="oss-cont"></span> | Add libfuzzer target for raw datapath packet parsing · <span class="oss-meta">Under review</span> |
+| LLVM | Add regression test for Clang frontend crash · <span class="oss-meta">Under review</span> |
 | Zephyr Twister | Prevent required tests from being skipped · CI testing · [#116998](https://github.com/zephyrproject-rtos/zephyr/pull/116998) |
 | linux-blktests | Prevent regression test log marker collisions · [5e1086a](https://github.com/linux-blktests/blktests/commit/5e1086aa10975b4db11d4f57d06dfedf0ab58915) |
 
