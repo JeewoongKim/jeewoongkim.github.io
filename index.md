@@ -3,24 +3,23 @@ layout: default
 ---
 
 ## About Me
-<img class="profile-picture" src="jwkim-rev.jpg">
-Jeewoong Kim is a Ph.D candidate who is researching Software Engineer at [SDEV lab](https://sdevlab.github.io) with a his advisor [Shin Hong](https://hongshin.github.io) in [Chungbuk National University (CBNU)](https://www.cbnu.ac.kr).
+<img class="profile-picture" src="jeewoong.PNG">
+Jeewoong Kim specializes in software testing and dynamic program analysis, with a focus on detecting, reproducing, and validating software bugs through automated techniques.
 
-Previously, Jeewoong received his M.S degree from [Computer Science and Electrical Engineering](https://csee.handong.edu) in Handong Global University.
+His research has covered real-world regression bug analysis, continuous fuzzing, and requirements-to-test traceability. He completed doctoral coursework and passed the comprehensive examination in Computer Science at [Chungbuk National University (CBNU)](https://www.cbnu.ac.kr), where he conducted software engineering research at the [SDEV lab](https://sdevlab.github.io) with his advisor [Shin Hong](https://hongshin.github.io).
+
 
 📧 [jeewoong4@gmail.com](mailto:jeewoong4@gmail.com) 
 <br><br>
 
-## Research Interest
+## Technical Focus
 
-Jeewoong researches dynamic program analysis for software verification and debugging.  
-His work focuses on *test case generation* for hard-to-test program behaviors and *doc-to-test traceability* :
-  - Greybox Fuzzing
-  - Continuous Testing
-  - Req-to-Test Traceability
+- Dynamic Software Validation
+- Regression & Defect Analysis
+- Requirements-to-Test Traceability
 <br><br>
 
-## Publications 
+## Selected Publications 
 
 - Path-target Directed Greybox Fuzzing with Recursive Search Strategy, KCC'25
 - Systematically Collecting Cross-project Bug Cases from OSS-Fuzz Test History, KCSE'25
