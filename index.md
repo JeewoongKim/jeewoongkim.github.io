@@ -26,3 +26,4 @@ His research has covered real-world regression bug analysis, continuous fuzzing,
 - BugOss: A Benchmark of Real-world Regression Bugs for Empirical Investigation of Regression Fuzzing Techniques, JSS'24 \[[git](https://github.com/sdevlab/BugOss)\]  
 - Inferring Fine-grained Traceability Links between Javadoc Comment and JUnit Test Code, ICSME-NIER'22 
 - How Does a Unit-level Test Case for Continuous Fuzzing Evolve: An Empirical Study of Code Changes in OSS-Fuzz Projects, KCC'22 \[[pdf](/pubs/kcc22_oss-fuzz-change.pdf)\] 
+<br><br><br><br>
