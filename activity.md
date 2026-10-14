@@ -6,7 +6,6 @@ layout: default
 <div id="oss-contributions" markdown="1">
 
 ### OSS Contributions
-<p class="oss-note">Some technical details are withheld for security reasons.</p>
 
 #### System & Network Software
 
