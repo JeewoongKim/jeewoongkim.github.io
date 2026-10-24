@@ -31,7 +31,7 @@ layout: default
 | :--- | :--- |
 | MsQuic | Add unit tests for valid and malformed IPv4/UDP packets · [#6312](https://github.com/microsoft/msquic/pull/6312) · <span class="oss-meta">Reviewed, pending</span> |
 | Zephyr | Fix CI test selection errors that caused required tests to be skipped · [#116998](https://github.com/zephyrproject-rtos/zephyr/pull/116998) |
-| LLVM | Add regression test for Clang frontend crash · <span class="oss-meta">Under review</span> |
+| LLVM | Add regression test for Clang frontend crash · [#224798](https://github.com/llvm/llvm-project/pull/224798) |
 | Linux-blktests | Fix false test failures caused by overlapping kernel `dmesg` markers · [5e1086a](https://github.com/linux-blktests/blktests/commit/5e1086aa10975b4db11d4f57d06dfedf0ab58915) |
 | Google OSS-Fuzz | Exercise previously untested functionality · Continuous fuzz testing |
 | <span class="oss-cont"></span> | (libplist[#316](https://github.com/libimobiledevice/libplist/pull/316), oss-fuzz[#16203](https://github.com/google/oss-fuzz/pull/16203#event-32196194130)) (yyjson[#288](https://github.com/ibireme/yyjson/pull/288), oss-fuzz[#15858](https://github.com/google/oss-fuzz/pull/15858)) |
