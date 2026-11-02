@@ -137,7 +137,7 @@
 }
 
 /*
-5개 라벨의 저채도 색상
+5개 라벨의 저채도 색상 (현재 비활성화)
 각 라벨에 oss-tag 외에 해당하는 클래스를 추가
 
 #oss-contributions .oss-tag--system-sw {
@@ -170,3 +170,45 @@
   color: #397386;
 }
 */
+
+/* 프로젝트별 라벨 표: 기존 표 스타일을 유지하면서 열 정렬만 조정 */
+#oss-contributions table.oss-label-table {
+  table-layout: auto;
+  width: 100%;
+  margin: 0 0 20px;
+}
+
+/* 라벨 열은 가장 긴 라벨에 맞추고, 본문 열 시작점은 통일 */
+#oss-contributions table.oss-label-table td:first-child {
+  width: 1%;
+  white-space: nowrap;
+  padding-right: 12px;
+  font-weight: normal;
+}
+
+/* 기존 목록과 유사한 본문 크기 및 행 간격 */
+#oss-contributions table.oss-label-table td {
+  font-size: 15px;
+  line-height: 1.65;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* 라벨 크기는 텍스트 길이에 맞게 유지 */
+#oss-contributions table.oss-label-table .oss-tag {
+  position: static;
+  width: auto;
+  margin-right: 0;
+  text-align: center;
+}
+
+/* 좁은 화면에서도 라벨 폭 고정 없이 표의 열 정렬 유지 */
+@media (max-width: 450px) {
+  #oss-contributions table.oss-label-table td {
+    font-size: 14px;
+  }
+
+  #oss-contributions table.oss-label-table td:first-child {
+    padding-right: 10px;
+  }
+}
