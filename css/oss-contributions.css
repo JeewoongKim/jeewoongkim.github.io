@@ -91,3 +91,82 @@
 #oss-contributions tr:has(.oss-cont) > td {
   padding-top: 3px;
 }
+
+/* 프로젝트별 기여 목록 (추가) */
+#oss-contributions ul {
+  list-style: none;
+  margin: 6px 0 20px;
+  padding: 0;
+}
+
+#oss-contributions li {
+  margin: 0 0 10px;
+  padding: 0;
+  font-size: 15px;
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}
+
+/* 기본 라벨: 5개 유형 모두 동일한 연회색 (추가) */
+#oss-contributions .oss-tag {
+  display: inline-block;
+  margin-right: 7px;
+  padding: 1px 8px;
+  border: 1px solid #dce2e8;
+  border-radius: 999px;
+  background-color: #f1f4f7;
+  color: #475569;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.6;
+  white-space: nowrap;
+  vertical-align: baseline;
+}
+
+/* 좁은 화면에서 불릿과 라벨 크기 조절 (추가) */
+@media (max-width: 450px) {
+  #oss-contributions li {
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+
+  #oss-contributions .oss-tag {
+    font-size: 10px;
+    padding: 1px 7px;
+  }
+}
+
+/*
+5개 라벨의 저채도 색상
+각 라벨에 oss-tag 외에 해당하는 클래스를 추가
+
+#oss-contributions .oss-tag--system-sw {
+  background-color: #e8f0fc;
+  border-color: #cbdcf5;
+  color: #305d9b;
+}
+
+#oss-contributions .oss-tag--sanitizer {
+  background-color: #f0e9fa;
+  border-color: #dfcff4;
+  color: #7553a5;
+}
+
+#oss-contributions .oss-tag--static-analysis {
+  background-color: #e6f4ed;
+  border-color: #cce7d9;
+  color: #307456;
+}
+
+#oss-contributions .oss-tag--fuzzing {
+  background-color: #fff0e3;
+  border-color: #f6d8ba;
+  color: #a86229;
+}
+
+#oss-contributions .oss-tag--testing-ci {
+  background-color: #e8f3f6;
+  border-color: #cde5eb;
+  color: #397386;
+}
+*/
