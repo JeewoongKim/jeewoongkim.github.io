@@ -11,6 +11,7 @@ layout: default
 
 | Label | Contribution |
 | :--- | :--- |
+| <span class="oss-tag">Sanitizer</span> | Fix excess shadow unpoisoning in the `strlcpy` interceptor · [#238598](https://github.com/llvm/llvm-project/pull/238598) · <span class="oss-meta">Under review</span> |
 | <span class="oss-tag oss-tag--system-sw">System SW</span> | Fix `clang-cl` dependency file naming and default targets with `-o` · [#235578](https://github.com/llvm/llvm-project/pull/235578) · <span class="oss-meta">Under review</span> |
 | <span class="oss-tag oss-tag--sanitizer">Sanitizer</span> | Enable `strlcpy`/`strlcat` sanitizer interceptors on glibc 2.38+ · [#236414](https://github.com/llvm/llvm-project/pull/236414) |
 | <span class="oss-tag oss-tag--sanitizer">Sanitizer</span> | Fix MemorySanitizer false positives from `addrinfo` padding · [#219124](https://github.com/llvm/llvm-project/pull/219124) |
