@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-<img class="profile-picture" src="wally.png">
+<img class="profile-picture" src="jeewoong.PNG">
 Jeewoong Kim specializes in software testing and dynamic program analysis, with a focus on detecting, reproducing, and validating software bugs through automated techniques.
 
 His research has covered real-world regression bug analysis, continuous fuzzing, and requirements-to-test traceability. He completed doctoral coursework and passed the comprehensive examination in Computer Science at [Chungbuk National University (CBNU)](https://www.cbnu.ac.kr), where he conducted software engineering research at the [SDEV lab](https://sdevlab.github.io) with his advisor [Shin Hong](https://hongshin.github.io).
