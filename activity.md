@@ -25,7 +25,7 @@ layout: default
 | :--- | :--- |
 | <span class="oss-tag oss-tag--system-sw">System SW</span> | Introduce type-safe socket polling interfaces · MISRA C Rule 17.1 · [#118426](https://github.com/zephyrproject-rtos/zephyr/pull/118426) |
 | <span class="oss-tag oss-tag--testing-ci">Testing & CI</span> | Prevent CI from skipping tests after substantive code changes · [#116998](https://github.com/zephyrproject-rtos/zephyr/pull/116998) |
-| <span class="oss-tag oss-tag--testing-ci">Testing & CI</span> | Prevent CI from skipping tests affected by snippet changes · [#121480](https://github.com/zephyrproject-rtos/zephyr/pull/121480) · <span class="oss-meta">Under review</span> |
+| <span class="oss-tag oss-tag--testing-ci">Testing & CI</span> | Prevent CI from skipping tests affected by snippet changes · [#121480](https://github.com/zephyrproject-rtos/zephyr/pull/121480) |
 {: .oss-label-table }
 
 #### Microsoft MsQuic
